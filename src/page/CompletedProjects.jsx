@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { Calendar, MapPin, ArrowRight, Building, Users, Clock } from 'lucide-react';
+impirt
 
 const projects = [
     {
@@ -8,7 +9,7 @@ const projects = [
         location: "Chișinău, Moldova",
         date: "2024",
         type: "Comercial",
-        image: "/api/placeholder/600/400",
+        image: "",
         description: "Expertiza tehnică completă și evaluarea siguranței structurale pentru cel mai nou centru comercial din capitală.",
         services: ["Analiză structurală", "Evaluare seismică", "Siguranță la incendiu"],
         client: "Aurora Development SRL",
